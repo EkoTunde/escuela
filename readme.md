@@ -7,4 +7,4 @@ It emphasizes the use of orm as objects that represent columns in sql.
 
 Libraries used:
 
-1. SqlAlchemy [https://www.sqlalchemy.org]
+* SqlAlchemy [https://www.sqlalchemy.org]
